@@ -1,5 +1,5 @@
 # RegExp.tag
-A template string based alternative for the [RegExp.escape proposal](https://github.com/benjamingr/RexExp.escape). Inspired by the discussion [here](https://github.com/benjamingr/RexExp.escape/issues/4) and [on this issue](https://esdiscuss.org/topic/regexp-escape). 
+A template string based alternative to or an addition for the [RegExp.escape proposal](https://github.com/benjamingr/RexExp.escape). Inspired by the discussion [here](https://github.com/benjamingr/RexExp.escape/issues/4) and [on this issue](https://esdiscuss.org/topic/regexp-escape). 
 
 ## Status
 
